@@ -1,6 +1,6 @@
 # ITER
 
-It's a web application for travelers who wish to explore various places around them. 
+It's a web application for travelers who wish to explore various places around them. ITER menas Travel in Latin
   
 ## FEATURES
 Sorts places for travellers who are cautious about the distance of travelling and the weather and temperature it pin points and displays the locations
